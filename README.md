@@ -8,6 +8,6 @@ What is in this repository
 | File | Purpose |
 |---|---|
 | `hello.ipynb` | Notebook with the SQL data quality checks (setup cell, primary keys, foreign keys, cardinalities) |
-| `erd.png` | ERD for the five tables, with PK/FK marks, crow's foot symbols and a verb on each line |
+| `erd.png` | ERD for the five tables, with PK/FK marks, crow's foot symbols |
 | `note.md` | Short written note answering the three assignment questions |
 | `README.md` | This file |
