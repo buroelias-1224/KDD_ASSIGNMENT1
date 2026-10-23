@@ -9,5 +9,5 @@ What is in this repository
 |---|---|
 | `hello.ipynb` | Notebook with the SQL data quality checks (setup cell, primary keys, foreign keys, cardinalities) |
 | `erd.png` | ERD for the five tables |
-| `note.md` | Short written note answering the three assignment questions |
+| `note.md` | Answers for the three assignment questions |
 | `README.md` | This file |
